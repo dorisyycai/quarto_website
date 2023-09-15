@@ -2,4 +2,34 @@
 title: "About"
 ---
 
-About this site
+**Skill Summary:**
+
+• Completion of CFA Level 2
+
+• Programming languages: Python, R, SQL, VBA, Tableau and Matlab
+
+• Languages: English, Cantonese and Mandarin
+
+• Fast learner, detailed-oriented, strong problem solving, multitasking and prioritization skills
+
+**Education:**
+
+• Bachelor of Mathematics (With Distinction), Honours Mathematics/Financial Analysis and Risk Management, Cooperative Program, University of Waterloo
+
+• Candidate of Master of Data Science, University of British Columbia
+
+**Work Experience:**
+
+• Portfolio Analyst, CI Global Asset Management, Toronto, ON
+
+• Business Analyst - Risk Management Information Technology, Scotiabank, Toronto, ON
+
+**Co-op Experience:**
+
+• Analyst - Securities Lending, Prime Brokerage Services, CIBC World Markets Inc., Toronto, ON
+
+• Analyst - CI Global Asset Management, Toronto, ON
+
+• Portfolio Analyst Intern - Derivatives, CPP Investment Board, Toronto, ON
+
+• Financial Software Engineering - Quant Analytics, DBRS Limited, Toronto, ON
